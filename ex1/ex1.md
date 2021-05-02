@@ -11,7 +11,7 @@
 
 ## 暴力
 
-O(N<sup>2<sup>) 两个for循环
+O(N<sup>2</sup>)  两个for循环
 
 ##  hash table
 
