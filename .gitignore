@@ -2,3 +2,6 @@
 build/
 sy*
 a.out
+node_modules
+package.json
+package-lock.json
